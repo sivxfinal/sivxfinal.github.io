@@ -57,7 +57,7 @@ body{
 	height: 4800px;
 }
 .slide{
-	background: url(file:///C:/Users/ACER/Desktop/FGO/FGO/FGO_media/FGO.gif);
+	background: url(../../FGO/FGO/FGO.html);
 	width: 1520px;
 	height: 800px;
 	background-size: contain;
