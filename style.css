@@ -84,7 +84,6 @@ body{
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-left: 10px;
-	float: left;
 }
 .b1 .event-ads{
 	background: url(https://fate-go.us/images/event_servant_fest2020.png);
@@ -92,7 +91,6 @@ body{
 	height: 55px;
 	background-size: contain;
 	background-repeat: no-repeat;
-	float: left;
 	margin-left: 10px;
 	cursor: pointer;
 }
@@ -108,7 +106,6 @@ body{
 	width: 99px;
 	height: 35px;
 	margin-left: 10px;
-	float: left;
 	cursor: pointer;
 }
 .b2 .google-play{
@@ -118,7 +115,6 @@ body{
 	width: 104px;
 	height: 35px;
 	margin-left: 10px;
-	float: left;
 	cursor: pointer;
 }
 .bar{
