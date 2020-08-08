@@ -57,7 +57,7 @@ body{
 	height: 4800px;
 }
 .slide{
-	background: url(img/gif.gif);
+	background: url(blob:https://giphy.com/5e274a21-b96a-4526-a8ae-4d3c5c2f9aac);
 	width: 1520px;
 	height: 800px;
 	background-size: contain;
