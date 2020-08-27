@@ -3,7 +3,7 @@
 	padding: 0;
 }
 body{
-	background: url(img/FGO.jpg);
+	background: url(img/img/FGO.jpg);
 	font-family: 'EB Garamond', serif;
 }
 #wrapper{
@@ -66,7 +66,7 @@ body{
 }
 .slide .out-box{
 	background: #FFFFFF;
-	width: 310px;
+	width: 232px;
 	height: 120px;
 	margin-left: 30px;
 	border: 1px solid #8C8C8C;
@@ -84,6 +84,7 @@ body{
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-left: 10px;
+
 }
 .b1 .event-ads{
 	background: url(https://fate-go.us/images/event_servant_fest2020.png);
@@ -91,10 +92,10 @@ body{
 	height: 55px;
 	background-size: contain;
 	background-repeat: no-repeat;
-	margin-left: 10px;
+	margin-left: 65px;
 	cursor: pointer;
 }
-.slide .in-slide .out-box .b2{
+.slide .out-box .b2{
 	width: 230px;
 	height: 55px;
 	padding-top: 10px;
@@ -114,7 +115,7 @@ body{
 	background-repeat: no-repeat;
 	width: 104px;
 	height: 35px;
-	margin-left: 10px;
+	margin-left: 105px;
 	cursor: pointer;
 }
 .bar{
@@ -179,7 +180,7 @@ body{
 	height: 215px;
 }
 .video .text0 .fou:hover{
-	background: url(img/fate-grand-order-e-pluribus-unum-kiyohime-fate-stay-night-enkidu-scathach-thumb.jpg.png);
+	background: url(img/img/fate-grand-order-e-pluribus-unum-kiyohime-fate-stay-night-enkidu-scathach-thumb.jpg.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	float: right;
@@ -201,7 +202,7 @@ body{
 	overflow: hidden;
 }
 .box1 .s1{
-	background: url(img/SaberBackGold.png);
+	background: url(img/img/SaberBackGold.png);
 	background-size: cover;
 	height: 540px;
 	width: 175px;
@@ -209,14 +210,14 @@ body{
 	transition-duration: 0.3s;
 }
 .box1 .s1:hover{
-	background: url(img/saber01.png);
+	background: url(img/img/saber01.png);
 	background-size: cover;
 	width: 280px;
 	height: 600px;
 	float: left;
 }
 .box1 .s2{
-	background: url(img/6601895caf233018b33d70a9531c01e2.jpg);
+	background: url(img/img/6601895caf233018b33d70a9531c01e2.jpg);
 	background-size: cover;
 	height: 462px;
 	width: 175px;
@@ -224,14 +225,14 @@ body{
 	transition-duration: 0.3s;
 }
 .box1 .s2:hover{
-	background: url(img/archer01.png);
+	background: url(img/img/archer01.png);
 	background-size: cover;
 	width: 280px;
 	height: 600px;
 	float: left;
 }
 .box1 .s3{
-	background: url(img/lancer.jpg.png);
+	background: url(img/img/lancer.jpg.png);
 	background-size: cover;
 	height: 540px;
 	width: 175px;
@@ -239,14 +240,14 @@ body{
 	transition-duration: 0.3s;
 }
 .box1 .s3:hover{
-	background: url(img/lancer01.png);
+	background: url(img/img/lancer01.png);
 	background-size: cover;
 	width: 280px;
 	height: 600px;
 	float: left;
 }
 .box1 .s4{
-	background: url(img/a8048cc01cf8aaf4f61216af738e9f44.jpg.png);
+	background: url(img/img/a8048cc01cf8aaf4f61216af738e9f44.jpg.png);
 	background-size: cover;
 	height: 520px;
 	width: 175px;
@@ -254,14 +255,14 @@ body{
 	transition-duration: 0.3s;
 }
 .box1 .s4:hover{
-	background: url(img/rider01.png);
+	background: url(img/img/rider01.png);
 	background-size: cover;
 	width: 280px;
 	height: 600px;
 	float: left;
 }
 .box1 .s5{
-	background: url(img/97a173482aa2d4fcc9b50445ec7d99da.jpg.png);
+	background: url(img/img/97a173482aa2d4fcc9b50445ec7d99da.jpg.png);
 	background-size: cover;
 	height: 540px;
 	width: 175px;
@@ -269,14 +270,14 @@ body{
 	transition-duration: 0.3s;
 }
 .box1 .s5:hover{
-	background: url(img/caster01.png);
+	background: url(img/img/caster01.png);
 	background-size: cover;
 	width: 280px;
 	height: 600px;
 	float: left;
 }
 .box1 .s6{
-	background: url(img/d8a27c4aed4d3855b864a6fac8de6804.jpg.png);
+	background: url(img/img/d8a27c4aed4d3855b864a6fac8de6804.jpg.png);
 	background-size: cover;
 	height: 540px;
 	width: 175px;
@@ -284,14 +285,14 @@ body{
 	transition-duration: 0.3s;
 }
 .box1 .s6:hover{
-	background: url(img/assassin01.png);
+	background: url(img/img/assassin01.png);
 	background-size: cover;
 	width: 280px;
 	height: 600px;
 	float: left;
 }
 .box1 .s7{
-	background: url(img/BerserkerBackGold.png);
+	background: url(img/img/BerserkerBackGold.png);
 	background-size: cover;
 	height: 540px;
 	width: 175px;
@@ -299,14 +300,14 @@ body{
 	transition-duration: 0.3s;
 }
 .box1 .s7:hover{
-	background: url(img/berserker01.png);
+	background: url(img/img/berserker01.png);
 	background-size: cover;
 	width: 280px;
 	height: 600px;
 	float: left;
 }
 .box1 .s8{
-	background: url(img/RulerBackGold.png);
+	background: url(img/img/RulerBackGold.png);
 	background-size: cover;
 	height: 540px;
 	width: 270px;
@@ -314,7 +315,7 @@ body{
 	transition-duration: 0.3s;
 }
 .box1 .s8:hover{
-	background: url(img/extra02.png);
+	background: url(img/img/extra02.png);
 	background-size: cover;
 	width: 280px;
 	height: 600px;
@@ -328,12 +329,12 @@ body{
 	width: 1520px;
 	height: 1750px;
 	margin: 0 auto;
-	background: url(img/7364918b32a4da02217e06df885ceb06.jpg-1.png);
+	background: url(img/img/7364918b32a4da02217e06df885ceb06.jpg-1.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 .News .top-news .jeane{
-	background: url(img/ef9be7bfbeefc1e0bfcfcaa572e3b606.jpg);
+	background: url(img/img/ef9be7bfbeefc1e0bfcfcaa572e3b606.jpg);
 	width: 200px;
 	height: 200px;
 	background-size: contain;
@@ -343,7 +344,7 @@ body{
 	float: left;
 }
 .News .top-news .jeane .douji{
-	background: url(img/IMG_0844.png);
+	background: url(img/img/IMG_0844.png);
 	width: 200px;
 	height: 200px;
 	background-size: contain;
@@ -352,7 +353,7 @@ body{
 	margin-top: 300px;
 }
 .News .top-news .jeane .gil{
-	background: url(img/GilgameshCastAF.png);
+	background: url(img/img/GilgameshCastAF.png);
 	width: 200px;
 	height: 200px;
 	background-size: contain;
@@ -361,7 +362,7 @@ body{
 	margin-top: 100px;
 }
 .News .top-news .box{
-	background: url(img/CHALDEAS.png);
+	background: url(img/img/CHALDEAS.png);
 	width: 150px;
 	height: 200px;
 	float: right;
@@ -369,7 +370,7 @@ body{
 	margin-top: 250px;
 }
 .News .top-news .box .gudako{
-	background: url(img/75-754374_gudako-gudako-fgo.png);
+	background: url(img/img/75-754374_gudako-gudako-fgo.png);
 	width: 200px;
 	height: 200px;
 	background-size: contain;
@@ -377,7 +378,7 @@ body{
 	margin-right: 150px;
 }
 .News .top-news .box .gudako:hover{
-	background: url(img/7364918b32a4da02217e06df885ceb06.jpg.png);
+	background: url(img/img/7364918b32a4da02217e06df885ceb06.jpg.png);
 	width: 200px;
 	height: 200px;
 	background-size: contain;
@@ -385,7 +386,7 @@ body{
 	margin-right: 200px;
 }
 .News .top-news .box .jeane2{
-	background: url(img/300px-Portrait_Servant_216_F.png);
+	background: url(img/img/300px-Portrait_Servant_216_F.png);
 	width: 200px;
 	height: 200px;
 	background-size: contain;
@@ -394,7 +395,7 @@ body{
 	margin-top: 100px;
 }
 .News .top-news .box .edmon{
-	background: url(img/725e31660219565824c9b89465cbe732.png);
+	background: url(img/img/725e31660219565824c9b89465cbe732.png);
 	width: 200px;
 	height: 200px;
 	background-size: contain;
@@ -485,7 +486,7 @@ body{
 .movie-area{
 	width: 1520px;
 	height: 310px;
-	background: url(img/bg_bar.png);
+	background: url(img/img/bg_bar.png);
 	background-size: cover;
 	margin-bottom: 20px;
 }
@@ -525,7 +526,7 @@ body{
 	float: left;
 }
 .movie-area .movie2 .next{
-	background: url(img/arrow.png);
+	background: url(img/img/arrow.png);
 	width: 50px;
 	height: 100px;
 	background-size: contain;
@@ -618,7 +619,7 @@ body{
 	height: 600px;
 }
 .bar1{
-	background: url(img/btn_pagetop.png);
+	background: url(img/img/btn_pagetop.png);
 	width: 500px;
 	height: 50px;
 	background-size: contain;
@@ -646,7 +647,7 @@ body{
 	padding-top: 100px;
 }
 .foot1 .inf .inf2{
-	background: url(img/Untitled-1.png);
+	background: url(img/img/Untitled-1.png);
 	width: 830px;
 	height: 500px;
 	background-size: contain;
